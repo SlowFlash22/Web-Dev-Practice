@@ -1,2 +1,2 @@
 # Photoblog site design
-### *Inspired form the design of instagram, pinterest-like sites* 
+### *Inspired from the design of instagram, pinterest-like sites* 
